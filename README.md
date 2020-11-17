@@ -6,8 +6,13 @@ The purpose of this code is, again, to clean and analyze datas using Pandas, Mat
 The datas were scrapped from immoweb the 07/09/2020.
 
 
+## Map
+
+![Map](https://github.com/Demesmaeker/Immo_DataAnalysis_V2/blob/main/Schemas/Plan.svg)
+
+
 ### Who
-This time, I' doing this alone.
+This time, I'm doing this alone.
 
 
 ### Methodology
